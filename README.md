@@ -24,7 +24,7 @@ JavaScript task-tracker application called Taskinator. Taskinator allows the use
 
 ## Usage
 
-You can play the game in this link: <https://tracybrtn.github.io/taskinator/>
+Link to deployed application: <https://tracybrtn.github.io/taskinator/>
 
 ## Contributing
 
